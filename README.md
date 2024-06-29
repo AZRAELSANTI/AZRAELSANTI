@@ -10,7 +10,6 @@
 
 ---
 
--   :pencil2: C++ / TypeScript / Vue / C# / Rust / React
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/AZRAELSANTI/AZRAELSANTI/discussions/new)!
 -   :mag: [CVEs discovered by me](CVE.md)
 -   :star: [Projects starred by me](AWESOME-STARS.md)
