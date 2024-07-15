@@ -1,10 +1,3 @@
-<h1 align="center">Hola! 👋 I'm Fujiwara</h1>
-<h3 align="center">Frontend developer from Russia</h3>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azraelsanti&show_icons=true&theme=radical)
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=azraelsanti&theme=tokyonight)](https://git.io/streak-stats)
 
